@@ -1,1 +1,1 @@
-web: gunicorn manitha_portfolio.app:app
+web: gunicorn manitha-portfolio.app:app
