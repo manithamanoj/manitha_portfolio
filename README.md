@@ -1,1 +1,1 @@
-# manitha_portfolio
+# manitha-portfolio
